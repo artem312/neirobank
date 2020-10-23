@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Neirobank Update</title>
-        <item>
+        <!--<item>
             <title>Version 1.16.0</title>
             <description>new version</description>
             <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
             <sparkle:tags>
              
             </sparkle:tags>
-        </item>
+        </item>-->
     </channel>
 </rss>
